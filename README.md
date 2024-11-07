@@ -57,10 +57,12 @@ git branch <branch-name>
 git checkout <branch-name>
 ```
 
-## Push the New Branch to the Remote Repository (if needed):
+## Commit the changes:
 
-```bash
-git push -u origin <branch-name>
-```
+check the left side and click the source control icon
 
-This sets up tracking between your local branch and the remote branch.
+check if there are commits changes and click the message and type `first commit`
+
+and click `commit` Button
+
+and then click `publish branch`
