@@ -26,7 +26,7 @@ Replace <repository-name> with the name of the folder created during cloning (us
 
 ## create a Javascript file
 
-create a javascript file and name it `surname.js` and type
+create a javascript file and name it `surname.js` and type (note: change it to your surname)
 
 ```javascript
 console.log("your surname");
